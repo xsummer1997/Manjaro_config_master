@@ -388,7 +388,7 @@ Plug 'ron89/thesaurus_query.vim'
 Plug 'kshenoy/vim-signature'
 
 " Other useful utilities
-Plug 'jiangmiao/auto-pairs'
+"Plug 'jiangmiao/auto-pairs'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'tpope/vim-surround' " type ysks' to wrap the word with '' or type cs'` to change 'word' to `word`
 Plug 'godlygeek/tabular' " type ;Tabularize /= to align the =
